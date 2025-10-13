@@ -4,7 +4,6 @@ I build retrieval that understands **images, text, video, and sound** — not ju
 
 I'm a Ph.D. researcher at Virginia Tech working on **vision–language models (VLMs)**, **RAG**, and **ranking** systems. I use **multi-prompt embeddings** (many small “views” of meaning) so search results stay rich and fair.
 
-- **Why cross-modal retrieval?** 
 - **What I do:** multi-prompt embeddings, two-stage **ranking → reranking**, and **RAG** with a VLM “reader.”
 - **Why it matters:** Because the world tells richer stories when you let modalities talk to each other. I design retrieval pipelines that surface the surprising connections—like and have better matches for idioms, metaphor, culture, and context — not only the obvious hit.
 - **Now:** training a VLM-based retriever + **cross-modal reranker**; building a **RAG** pipeline that plugs these into a simple API; exploring room-acoustic signals (RIRs) for spatial cues.
