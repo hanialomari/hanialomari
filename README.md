@@ -19,5 +19,3 @@ I'm a Ph.D. researcher at Virginia Tech working on **vision–language models (V
 **Open to:** collaborative projects on diversity-aware retrieval, interpretable vision-language models, or new evaluation benchmarks for multimodal reasoning, let’s talk. I’m excited about building the tools that help us navigate meaning across modalities with empathy and precision.
 
 **How to reach me:** [Website](https://hanialomari.github.io/) · [Scholar](https://scholar.google.com/citations?user=Ft_qTcwAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/hanialomari/) · [Email](mailto:hani@vt.edu)
-
-**Fun fact:** I’m picky about figures—clear icons, readable plots, and fair comparisons matter as much as the numbers.
