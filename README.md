@@ -46,7 +46,6 @@ Real-world queries are polysemous: idioms, metaphor, culture, and context often 
 
 ### Systems / Tools
 <p>
-  <img src="https://img.shields.io/badge/FAISS-0468D7?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
