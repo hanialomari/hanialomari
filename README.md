@@ -54,12 +54,6 @@ Real-world queries are polysemous: idioms, metaphor, culture, and context often 
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
 </p>
 
-### (Optional) Demos / Web
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
 ---
 
 ## Open to collaborations
