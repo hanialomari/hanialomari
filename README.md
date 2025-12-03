@@ -1,4 +1,4 @@
-## Hi, I'm Hani Al-Omari 👋
+## Hi, I'm Hani Alomari 👋
 
 I build retrieval systems that understand **images, text, video, and sound** - not just literal matches.
 
