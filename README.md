@@ -80,7 +80,7 @@ Real-world images are polysemous. Metaphor, emotion, culture, and context often 
 ---
 
 ## Open to collaborations
-If you're working on **polysemous or diversity-aware retrieval**, **image quality and aesthetic assessment**, **interpretable VLMs**, oenchmarks**, let's talk.
+If you're working on **polysemous or diversity-aware retrieval**, **image quality and aesthetic assessment**, **interpretable VLMs**, or **multimodal reasoning benchmarks**, let's talk.
 
 ### How to reach me
 - 🌐 Website: https://hanialomari.github.io/
